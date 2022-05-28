@@ -1,3 +1,5 @@
+# Created by Michał Śliwiński Warsaw 27.05.2022
+
 from matplotlib import pyplot
 from numpy import loadtxt
 import numpy as np
